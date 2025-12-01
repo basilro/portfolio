@@ -210,20 +210,6 @@
 **Tech Stack**: 
 `Oracle Cloud` `Ubuntu` `Docker` `Rclone` `Google Drive` `Docker-Compose`
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basilro&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basilro&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 📫 Contact
 
 - **Email**: bcjang@kakao.com
