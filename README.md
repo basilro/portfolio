@@ -76,6 +76,24 @@
 
 ---
 
+
+### 📹 [Video URL Analyzer](https://github.com/bcjang/url-analyzer)
+> 비디오 URL의 재생 가능 여부 및 DRM 탐지 라이브러리
+
+**목표**:
+- 다양한 비디오 플랫폼 URL의 재생 가능 여부 자동 검증
+- DRM 보호 콘텐츠 자동 탐지 및 분류
+
+**기술적 해결**:
+- AVPlayer를 활용한 멀티미디어 분석 로직 구현
+- Gradle 기반 빌드 시스템 구축
+- 재사용 가능한 라이브러리 형태로 패키징
+
+**Tech Stack**: 
+`Java 17` `Gradle` `AVPlayer`
+
+---
+
 ### 📱 LS엠트론 통합구매시스템 모바일 구축
 > 하이브리드 앱 기반 모바일 구매 시스템 개발
 
@@ -157,23 +175,6 @@
 
 **Tech Stack**: 
 `React` `TypeScript` `Vite` `Tailwind CSS` `OAuth 2.0`
-
----
-
-### 📹 [Video URL Analyzer](https://github.com/bcjang/url-analyzer)
-> 비디오 URL의 재생 가능 여부 및 DRM 탐지 라이브러리
-
-**목표**:
-- 다양한 비디오 플랫폼 URL의 재생 가능 여부 자동 검증
-- DRM 보호 콘텐츠 자동 탐지 및 분류
-
-**기술적 해결**:
-- AVPlayer를 활용한 멀티미디어 분석 로직 구현
-- Gradle 기반 빌드 시스템 구축
-- 재사용 가능한 라이브러리 형태로 패키징
-
-**Tech Stack**: 
-`Java 17` `Gradle` `AVPlayer`
 
 ---
 
