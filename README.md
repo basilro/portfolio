@@ -4,7 +4,7 @@
 ### Full Stack Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-basilro-181717?style=flat-square&logo=github)](https://github.com/basilro)
-[![Email](https://img.shields.io/badge/Email-bcjang%40kakao.com-EA4335?style=flat-square&logo=gmail)](mailto:sica4311@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sica4311%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:sica4311@gmail.com)
 
 </div>
 
